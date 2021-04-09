@@ -13,7 +13,7 @@ I limited the minor length because of my special case. You can delete the second
 Hint: To detect more circles reduce p2.
 
 Instead of reading from photo you may want to read from camera. For that purpose you should make some changes in code.
-In stackoverflow there a lot of post about how to read from camera. Chill...
+In stackoverflow there are a lot of posts about how to read from camera. Good coding...
 
 <img src="images/1.png" width="350">
 <img src="images/2.png" width="350">
