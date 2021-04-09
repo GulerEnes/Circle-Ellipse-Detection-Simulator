@@ -1,5 +1,5 @@
 # Circle-Ellipse-Detection-Simulator
-Program to detect the circles and ellipses livelily. Parameters and ellipse shape are changeable while running time.
+Program to detect the circles and ellipses lively. Parameters and ellipse shape are changeable while running time.
 
 In the 3D world, if you look at a circle from different angles, you may see the circle as an ellipse. But it is still a circle.
 So to detect a circle from different look angles, center coordinates are very important.
@@ -11,6 +11,9 @@ If you desire to learn center, you can close the showAll parameter and can look 
 I limited the minor length because of my special case. You can delete the second if condition in the code.
 
 Hint: To detect more circles reduce p2.
+
+Instead of reading from photo you may want to read from camera. For that purpose you should make some changes in code.
+In stackoverflow there a lot of post about how to read from camera. Chill...
 
 <img src="images/1.png" width="350">
 <img src="images/2.png" width="350">
